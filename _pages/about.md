@@ -2,8 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <strong>Computational Physics Researcher</strong> • University of Orleans • <a href='mailto:cheick-oumar.diarra@univ-orleans.fr'>cheick-oumar.diarra@univ-orleans.fr</a>
-
+subtitle: <strong>Computational Physicist | First-Principles Modelling | Molecular and Materials Simulations</strong> • University of Orleans
 profile:
   align: right
   image: prof_pic.jpg
@@ -29,31 +28,31 @@ latest_posts:
 
 ## Welcome
 
-I'm a **computational physicist** with deep expertise in **first-principles modeling** of complex molecular systems. My research bridges atomistic simulations with experimentally observable properties, focusing on exciton dynamics, heat transport, and energy materials.
+I hold a Ph.D. in **Computational Physics** with expertise in **molecular modeling**, **scientific computing**, and **data-driven research**. Throughout my work, I have developed numerical methods and software tools in Fortran, Python, and Bash to analyze ab initio simulations, automate HPC workflows, and process large-scale scientific datasets. My experience combines atomistic modeling, scientific software development, high-performance computing on national supercomputing facilities, and a growing interest in machine learning through hands-on projects. I enjoy tackling complex problems at the intersection of physics, computing, and data science, and I am always eager to learn and apply new technologies across research and industry.  
 
-### Research Specializations
+### Areas of Expertise
 
-- 🔬 **Density Functional Theory (DFT)** & Ab Initio Molecular Dynamics
-- ⚡ **Exciton Dynamics** in organic semiconductors
-- 🌡️ **Thermal Transport** in novel materials
-- 💻 **High-Performance Computing** & Scientific Programming
-- 📊 **Data Analysis** & Machine Learning applications
+* 🔬 **Computational Physics** and **Molecular Modeling**
+* ⚛️ **Density Functional Theory (DFT)** and *ab initio* Molecular Dynamics
+* ⚡ **Excited-State Modeling** and Charge/Energy Transport in Materials
+* 💻 **Scientific Computing**, **High-Performance Computing (HPC)**, and Scientific Software Development
+* 🧮 **Numerical Methods** and Workflow Automation
+* 📊 **Scientific Data Analysis**, Machine Learning, and Data-Driven Research
 
 ### Current Focus
 
-I'm currently exploring:
-- Organic semiconductors for optoelectronic devices
-- Heat transport in low-dimensional materials
-- Biomolecular simulations and protein dynamics
-- Development of computational workflows for materials discovery
+I'm currently developing computational tools and data analysis workflows to investigate the role of disulfide bonds in the folding of defensin proteins.
 
 ### Open to Collaboration
 
-🤝 Seeking opportunities in:
-- **Research Positions** in computational materials science
-- **Data Science** applications in physics and materials
-- **Academic Collaborations** across disciplines
-- **Industrial Partnerships** for materials innovation
+🤝 I am interested in opportunities across academia and industry, including:
+
+* **Research Positions** in computational science, physics, materials science, or related fields.
+* **Scientific Software Development** and **High-Performance Computing (HPC)** projects.
+* **Data Science** and **Machine Learning** applications for scientific and engineering challenges.
+* **Interdisciplinary Research Collaborations** bridging physics, computation, and data.
+* **Industrial R&D Partnerships** involving modeling, simulation, scientific computing, or data-driven innovation.
+
 
 ### Get in Touch
 
