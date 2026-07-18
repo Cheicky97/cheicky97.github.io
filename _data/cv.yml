@@ -1,5 +1,378 @@
 cv:
   name: Cheick O. DIARRA
+  label: Computational Physicist | Scientific Computing | Data-Driven Research
+  email: cheickoumard7@gmail.com
+  location: Orléans, France
+  image: ""
+  summary: >
+    Computational physicist with a Ph.D. and expertise in molecular modelling,
+    scientific computing, and data-driven research. Experienced in developing
+    numerical methods and scientific software in Fortran, Python, and Bash for
+    the analysis of ab initio simulations, the automation of HPC workflows,
+    and the processing of scientific data. My background combines atomistic
+    modelling, scientific software development, high-performance computing on
+    GENCI facilities, and machine learning through hands-on projects.
+
+  social_networks:
+    - network: GitHub
+      username: cheick-oumar-diarra
+    - network: LinkedIn
+      username: cheick-diarra
+    - network: ResearchGate
+      username: Cheick-Diarra
+
+  address:
+    street: Rue Charles Sadron
+    city: Orléans
+    region: Centre-Val de Loire
+    postalCode: "45100"
+    countryCode: FR
+
+  sections:
+    Experience:
+      - company: Centre for Molecular Biophysics (CBM)
+        position: Teaching and Research Assistant (ATER)
+        location: University of Orléans, France
+        start_date: 2024
+        end_date: present
+        summary: >
+          Development of computational tools to investigate the role of
+          disulfide bonds in the folding of defensin proteins, alongside
+          undergraduate and graduate teaching in physics, mathematics, and
+          scientific computing.
+        highlights:
+          - "Developed Python tools to retrieve, structure, and analyse protein sequence data and disulfide-bond annotations"
+          - "Built automated data-processing workflows using the UniProt REST API, Pandas, and scientific Python libraries"
+          - "Created structured datasets integrating protein sequences, annotations, and custom molecular descriptors"
+          - "Performed statistical analyses of correlations and distributions related to disulfide-bond formation"
+          - "Used Git and GitHub to organise code, track changes, and support reproducible research"
+          - "Taught thermodynamics, mechanics, optics, electrostatics, electronics, complex analysis, Fourier and Laplace transforms, and scientific computing"
+          - "Supervised tutorials, laboratory sessions, oral assessments, and student projects across undergraduate and graduate programmes"
+
+      - company: ICube Laboratory
+        position: Doctoral Researcher
+        location: University of Strasbourg, France
+        start_date: 2021
+        end_date: 2024
+        summary: >
+          Development of first-principles computational methods for modelling
+          exciton dynamics and thermal transport in organic semiconductors.
+          The Ph.D. project was conducted within the ITI HiFunMat doctoral programme.
+        highlights:
+          - "Developed numerical methods to estimate exciton diffusion properties from first-principles molecular-dynamics trajectories"
+          - "Investigated heat-transfer mechanisms and anisotropic thermal transport in organic semiconductors"
+          - "Performed Car–Parrinello and ab initio molecular-dynamics simulations on GENCI supercomputing facilities"
+          - "Developed and maintained a Fortran software package for trajectory analysis and scientific data processing"
+          - "Automated simulation, post-processing, and analysis workflows using Python and Bash"
+          - "Produced peer-reviewed publications and presented results at national and international scientific meetings"
+          - "Collaborated with researchers working in computational materials science, photonics, and organic electronics"
+
+      - company: Matter and Complex Systems Laboratory (MSC)
+        position: Research Intern
+        location: Sorbonne University, Paris, France
+        start_date: 2021
+        end_date: 2021
+        summary: >
+          Experimental study of the dynamic reorganisation of plant-cell
+          cytoskeletal structures under geometric confinement using
+          microfabrication, microscopy, and image analysis.
+        highlights:
+          - "Prepared plant-cell samples for fluorescence microscopy experiments"
+          - "Designed and fabricated photolithographic moulds for agar-based microwell arrays"
+          - "Applied microfluidic and geometric-confinement approaches"
+          - "Processed microscopy images and analysed cytoskeletal dynamics"
+
+      - company: Institute of Nanoscience of Paris (INSP) and Saint-Gobain Research
+        position: Research Intern
+        location: Paris, France
+        start_date: 2020
+        end_date: 2020
+        summary: >
+          DFT-based computational study of structural and electronic changes
+          in lithium-doped and oxygen-deficient tungsten trioxide for
+          electrochromic applications.
+        highlights:
+          - "Performed DFT and DFT+U calculations on WO3-based structures"
+          - "Studied the effects of lithium intercalation on electronic and crystallographic properties"
+          - "Investigated oxygen-deficient Li:WO3−x systems"
+          - "Analysed and visualised atomistic-simulation results"
+
+      - company: Institute of Nanoscience of Paris (INSP)
+        position: Research Intern
+        location: Paris, France
+        start_date: 2019
+        end_date: 2019
+        summary: >
+          Optical characterisation of gallium arsenide quantum dots and
+          numerical calculation of their electronic states.
+        highlights:
+          - "Performed micro-photoluminescence and photoluminescence-excitation measurements"
+          - "Analysed atomic-force microscopy images"
+          - "Calculated fundamental and excited electronic states using Mathematica"
+
+      - company: SYRTE, Paris Observatory
+        position: Research Intern
+        location: Paris, France
+        start_date: 2017
+        end_date: 2017
+        summary: >
+          Statistical analysis of meteorological measurements and their
+          relationships with astronomical seeing conditions.
+        highlights:
+          - "Processed and analysed meteorological datasets"
+          - "Studied correlations among temperature, humidity, wind, and seeing conditions"
+          - "Produced numerical analyses and scientific visualisations"
+
+    Education:
+      - institution: University of Strasbourg
+        location: Strasbourg, France
+        area: Physics and Materials for Energy
+        studyType: Ph.D. in Physics
+        start_date: 2021
+        end_date: 2024
+        summary: "First-principles modelling of exciton dynamics and heat transport in organic semiconductors"
+        highlights:
+          - "Member of the ITI HiFunMat doctoral programme"
+          - "Awarded competitive doctoral research funding"
+          - "Selected among the ten best posters at the doctoral-school research day for an oral presentation"
+
+      - institution: Sorbonne University
+        location: Paris, France
+        area: Complex Fluids and Dispersed Media
+        studyType: Master's Degree in Physics
+        start_date: 2020
+        end_date: 2021
+        highlights:
+          - "Specialisation in soft matter, complex fluids, and dispersed systems"
+          - "Training in experimental and computational approaches to complex physical systems"
+
+      - institution: Sorbonne University
+        location: Paris, France
+        area: Materials Science and Nanomaterials
+        studyType: Master's Degree in Physics
+        start_date: 2019
+        end_date: 2020
+        highlights:
+          - "Specialisation in materials physics and nanomaterials"
+          - "Training in electronic-structure calculations and computational materials modelling"
+
+      - institution: Sorbonne University
+        location: Paris, France
+        area: Physics
+        studyType: Bachelor's Degree in Physics
+        start_date: 2016
+        end_date: 2019
+        highlights:
+          - "Core training in physics, mathematics, numerical methods, and scientific experimentation"
+
+    Skills:
+      - name: Scientific Software Development
+        level: Advanced
+        icon: fa-solid fa-code
+        keywords: "Python, Fortran, Bash, Git, Linux, numerical methods, data processing, workflow automation"
+
+      - name: Scientific Computing
+        level: Advanced
+        icon: fa-solid fa-laptop-code
+        keywords: "Numerical modelling, simulation analysis, scientific workflows, reproducible computing, algorithm development"
+
+      - name: High-Performance Computing
+        level: Advanced
+        icon: fa-solid fa-server
+        keywords: "GENCI facilities, Linux clusters, batch jobs, MPI, parallel computing, resource-intensive simulations"
+
+      - name: Molecular Modelling and First-Principles Simulations
+        level: Advanced
+        icon: fa-solid fa-atom
+        keywords: "DFT, DFT+U, AIMD, CPMD, ROKS, Quantum ESPRESSO, electronic structure, atomistic modelling"
+
+      - name: Computational Physics
+        level: Advanced
+        icon: fa-solid fa-microscope
+        keywords: "Exciton dynamics, thermal transport, molecular dynamics, organic semiconductors, biomolecular data"
+
+      - name: Data Analysis and Machine Learning
+        level: Intermediate
+        icon: fa-solid fa-chart-line
+        keywords: "Pandas, NumPy, SciPy, Matplotlib, scikit-learn, TensorFlow, Keras, statistical analysis, data visualisation"
+
+      - name: Experimental and Characterisation Techniques
+        level: Intermediate
+        icon: fa-solid fa-flask
+        keywords: "Photolithography, microfluidics, fluorescence microscopy, spectroscopy, AFM image analysis"
+
+    Languages:
+      - name: French
+        summary: Native or bilingual proficiency
+
+      - name: English
+        summary: Professional working proficiency
+
+    Interests:
+      - name: Computational Science
+        icon: fa-solid fa-microchip
+        keywords: "Numerical methods, scientific software, modelling, simulation, interdisciplinary research"
+
+      - name: High-Performance Computing
+        icon: fa-solid fa-server
+        keywords: "Parallel computing, workflow automation, scientific applications, reproducibility"
+
+      - name: Data-Driven Research
+        icon: fa-solid fa-chart-column
+        keywords: "Scientific data analysis, machine learning, data integration, research automation"
+
+      - name: Molecular and Materials Modelling
+        icon: fa-solid fa-atom
+        keywords: "Electronic structure, molecular dynamics, organic semiconductors, proteins, thermal and excitonic transport"
+
+    Honors:
+      - title: Qualification for Associate Professor Positions in France
+        summary: "Qualified by the French National Council of Universities, CNU Section 28 – Physics of Condensed Matter and Materials (2025)"
+
+      - title: ITI HiFunMat Doctoral Programme
+        summary: "Selected for the interdisciplinary HiFunMat doctoral programme in hierarchical and functional materials"
+
+      - title: Doctoral Research Funding
+        summary: "Awarded competitive funding for a three-year doctoral research project"
+
+      - title: Doctoral-School Poster Recognition
+        summary: "Selected among the ten best posters for an oral presentation at the doctoral-school research day"
+
+    Projects:
+      - name: Ph.D. Simulation Data Analysis Toolkit
+        summary: >
+          Scientific software and analysis workflows developed in Fortran and
+          Python to process first-principles molecular-dynamics trajectories,
+          calculate physical observables, and automate research workflows.
+        highlights:
+          - "Developed and maintained a modular Fortran package over the course of the Ph.D."
+          - "Implemented numerical analysis and post-processing routines for atomistic simulations"
+          - "Integrated Python scripts for data analysis, visualisation, and workflow automation"
+        url: "https://github.com/cheick-oumar-diarra/PhD-Data-Analysis"
+
+      - name: Defensin Protein Data Pipeline
+        summary: >
+          Python workflow for collecting, integrating, and analysing protein
+          sequence data and disulfide-bond annotations to study defensin folding.
+        highlights:
+          - "Automated data retrieval through the UniProt REST API"
+          - "Built structured Pandas datasets from heterogeneous biological annotations"
+          - "Performed statistical exploration of sequence and disulfide-bond features"
+
+    Publications:
+      - title: "Intermediate Range Order in Liquid GeSe2: Known Facts and Elusive Issues Revisited by Combining First-Principles and Million Atoms Machine-Learning Calculations"
+        authors:
+          - S. D. Wansi Wendji
+          - C. Massobrio
+          - M. Boero
+          - A. Bouzid
+          - C. O. Diarra
+          - et al.
+        publisher: "The Journal of Physical Chemistry Letters"
+        releaseDate: 2026-04-15
+        url: "https://doi.org/10.1021/acs.jpclett.6c00322"
+        summary: "Study of intermediate-range order in GeSe2 using first-principles and machine-learning methods (17(14), 4008–4015)"
+
+      - title: "Thermal conductivities of amorphous SiO2 films by approach-to-equilibrium molecular dynamics"
+        authors:
+          - L. Petit
+          - C. O. Diarra
+          - A. Lambrecht
+          - M. Boero
+          - E. Martin
+        publisher: "Solid State Sciences"
+        releaseDate: 2026-01-01
+        url: "https://doi.org/10.1016/j.solidstatesciences.2026.108262"
+        summary: "Computational study of thermal conductivity in amorphous SiO2 films using molecular-dynamics simulations (175, 108262)"
+
+      - title: "On the crystallization tendency of amorphous Sb2S3 under pressure: A first-principles molecular dynamics study"
+        authors:
+          - L. Petit
+          - J. Taillieu
+          - C. Massobrio
+          - C. O. Diarra
+          - A. Lambrecht
+          - M. Boero
+          - E. Martin
+        publisher: "Solid State Sciences"
+        releaseDate: 2026-01-01
+        url: "https://doi.org/10.1016/j.solidstatesciences.2026.108325"
+        summary: "First-principles study of pressure-induced crystallisation in amorphous Sb2S3 (177, 108325)"
+
+      - title: "Exciton radiative lifetime and diffusion length from first-principles atomic trajectories: Method assessment for P3HT"
+        authors:
+          - C. O. Diarra
+          - J. Taillieu
+          - M. Boero
+          - T. Heiser
+          - E. Martin
+        publisher: "The Journal of Physical Chemistry B"
+        releaseDate: 2025-08-28
+        url: "https://doi.org/10.1021/acs.jpcb.5c04516"
+        summary: "Method for estimating exciton properties from ab initio molecular-dynamics trajectories in P3HT (129(34), 8832–8840)"
+
+      - title: "Heat transfer through covalent versus non-covalent bonding: A case study on crystalline π-conjugated P3HT polymer using approach-to-equilibrium molecular dynamics"
+        authors:
+          - C. O. Diarra
+          - C. Massobrio
+          - E. Martin
+        publisher: "Physical Chemistry Chemical Physics"
+        releaseDate: 2025-05-14
+        url: "https://doi.org/10.1039/D5CP02084K"
+        summary: "Computational investigation of heat-transfer mechanisms in crystalline P3HT (27, 18487–18495)"
+
+      - title: "On the actual difference between the Nosé and the Nosé-Hoover thermostats: A critical review of canonical temperature control by molecular dynamics"
+        authors:
+          - C. Massobrio
+          - I. A. Essomba
+          - M. Boero
+          - C. Diarra
+          - M. Guerboub
+          - et al.
+        publisher: "Physica Status Solidi B"
+        releaseDate: 2023-04-01
+        url: "https://doi.org/10.1002/pssb.202300209"
+        summary: "Critical review of thermostat formulations and implementations in molecular-dynamics simulations (261, 2300209)"
+
+      - title: "Exciton diffusion in poly(3-hexylthiophene) by first-principles molecular dynamics"
+        authors:
+          - C. O. Diarra
+          - M. Boero
+          - E. Steveler
+          - T. Heiser
+          - E. Martin
+        publisher: "Physical Chemistry Chemical Physics"
+        releaseDate: 2023-05-10
+        url: "https://doi.org/10.1039/D3CP00533J"
+        summary: "First-principles molecular-dynamics study of exciton diffusion in P3HT for organic photovoltaic applications (25, 15539–15546)"
+
+    Conferences:
+      - title: "A computational approach for exciton diffusion in organic solar cells based on first principles"
+        authors:
+          - C. O. Diarra
+          - E. Martin
+        date: 2023-06-01
+        location: "E-MRS Spring Meeting, Strasbourg, France"
+        summary: "Oral presentation at Symposium P: Computations for Materials, May 29–June 2, 2023"
+
+      - title: "First-principles molecular dynamics modelling of exciton transfer in organic semiconductors"
+        authors:
+          - C. O. Diarra
+          - M. Boero
+          - E. Martin
+        date: 2023-10-17
+        location: "French Photonics Days, 5th Edition, Strasbourg, France"
+        summary: "Poster presentation, October 17–18, 2023"
+
+      - title: "Ab initio molecular dynamics modelling of excitonic transport in organic semiconductors"
+        authors:
+          - C. O. Diarra
+          - M. Boero
+          - E. Martin
+        date: 2022-12-05
+        location: "SPIC 2022 — Science and Technology of Pi-Conjugated Systems, Saint-Malo, France"
+        summary: "Poster presentation, December 5–8, 2022"cv:
+  name: Cheick O. DIARRA
   label: Computational Physicist & Researcher
   email: cheickoumard7@gmail.com
   location: Orleans, France
