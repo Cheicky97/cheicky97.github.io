@@ -36,6 +36,7 @@ cv:
         start_date: 2024
         end_date: present
         summary: >
+        
           Development of computational tools to investigate the role of
           disulfide bonds in the folding of defensin proteins, alongside
           undergraduate and graduate teaching in physics, mathematics, and
@@ -55,6 +56,7 @@ cv:
         start_date: 2021
         end_date: 2024
         summary: >
+        
           Development of first-principles computational methods for modelling
           exciton dynamics and thermal transport in organic semiconductors.
           The Ph.D. project was conducted within the ITI HiFunMat doctoral programme.
@@ -73,6 +75,7 @@ cv:
         start_date: 2021
         end_date: 2021
         summary: >
+        
           Experimental study of the dynamic reorganisation of plant-cell
           cytoskeletal structures under geometric confinement using
           microfabrication, microscopy, and image analysis.
@@ -88,6 +91,7 @@ cv:
         start_date: 2020
         end_date: 2020
         summary: >
+        
           DFT-based computational study of structural and electronic changes
           in lithium-doped and oxygen-deficient tungsten trioxide for
           electrochromic applications.
@@ -103,6 +107,7 @@ cv:
         start_date: 2019
         end_date: 2019
         summary: >
+        
           Optical characterisation of gallium arsenide quantum dots and
           numerical calculation of their electronic states.
         highlights:
@@ -116,6 +121,7 @@ cv:
         start_date: 2017
         end_date: 2017
         summary: >
+        
           Statistical analysis of meteorological measurements and their
           relationships with astronomical seeing conditions.
         highlights:
